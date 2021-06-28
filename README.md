@@ -1,2 +1,3 @@
-# techbookfest11-support
-techbookfest11 support repository
+## 『新宿一丁目電脳通信放送局　- 壱 -　雑談から始めるラジオの作り方』 （S.P.Radio著） のサポートリポジトリです
+
+
