@@ -1,1 +1,29 @@
+### 配信URL
 
+- S.P.Radio #0
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-0-etg8ot/a-a523msd
+  - YouTube https://youtu.be/PHPQnOjnZ2s 
+- S.P.Radio #1
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-1-etg9tu/a-a524dkv
+  - YouTube https://youtu.be/07bwxCWLShk
+- S.P.Radio #2
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-2-etgabr/a-a524h3l
+  - YouTube https://youtu.be/efwLKE9wvRE
+- S.P.Radio #3
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-3-etgd8g/a-a524ugu
+  - YouTube https://youtu.be/GlwWEaoNE1I
+- S.P.Radio #4
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-4-eukf1i/a-a5702b7
+  - YouTube https://youtu.be/KacCj_BHY2c
+- S.P.Radio #5
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-5-evgsca/a-a5be671
+  - YouTube https://youtu.be/mitqR2xT7rM
+- S.P.Radio #6
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-6-e10go6e/a-a5gkb63
+  - YouTube https://youtu.be/Ot5p3CL2krU
+- S.P.Radio #7
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-7-e127r8g/a-a5pqf8c
+  - YouTube https://youtu.be/OAQczoql-ds
+- S.P.Radio #08
+  - Anchor https://anchor.fm/spradio999/episodes/S-P-Radio-8-e136btj/a-a5uqor1
+  - YouTube https://youtu.be/dwM3urLMDDg
