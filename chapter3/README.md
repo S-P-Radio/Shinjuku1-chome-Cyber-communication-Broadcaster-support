@@ -1,4 +1,3 @@
 ### ソフトウェア
 
--　iMovie https://www.apple.com/jp/imovie/
-
+- iMovie https://www.apple.com/jp/imovie/
